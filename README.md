@@ -1,5 +1,5 @@
 # sponsor-your-opensource-project
-How to find the perfect sponsor for your open source project
+<strong>How to find the perfect sponsor for your open source project</strong>
 
 The ongoing maintenance and growth of open source projects are clearly in the best interest of the software companies using them. And yet, raising money for an open-source project is difficult, and many developers struggle with finding the right sponsors for their open source projects. What is the best way to get the resources open source developers need to keep developing?
 
