@@ -3,6 +3,9 @@ How to find the perfect sponsor for your open source project
 
 The ongoing maintenance and growth of open source projects are clearly in the best interest of the software companies using them. And yet, raising money for an open-source project is difficult, and many developers struggle with finding the right sponsors for their open source projects. What is the best way to get the resources open source developers need to keep developing?
 
+<img src="https://blog.xscode.com/wp-content/uploads/elementor/thumbs/finding_sponsors_coverpic-oohf6t73yi9okg2j4sb9g3zn1ql3o5y6da2csazzig.jpg" title="finding_sponsors_coverpic" alt="finding_sponsors_coverpic" data-lazy-src="https://blog.xscode.com/wp-content/uploads/elementor/thumbs/finding_sponsors_coverpic-oohf6t73yi9okg2j4sb9g3zn1ql3o5y6da2csazzig.jpg" class="lazyloaded" data-was-processed="true">
+
+
 <strong>Boiling point </strong>
 
 The open-source sustainability problem has become a burning issue for both OSS developers and software companies. We are reaching a boiling point; Open source components already comprise 70% of code in most software products developed today, and they are maintained by individuals or small teams. These developers work out of their own volition, and without getting the much-needed resources, they just won’t be able to continue maintaining their code on an ongoing basis.
